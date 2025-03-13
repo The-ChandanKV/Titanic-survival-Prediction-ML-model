@@ -16,10 +16,10 @@ This project is a machine learning model that predicts whether a passenger would
 ---
 
 ## 🛠 Tech Stack
--**Frontend:** HTML, CSS, JavaScript
--**Backend:** Flask (Python)
--**Machine Learning:** Scikit-Learn
--**Dataset:** Titanic Dataset (Kaggle)
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Flask (Python)
+- **Machine Learning:** Scikit-Learn
+- **Dataset:** Titanic Dataset (Kaggle)
 
 ---
 
