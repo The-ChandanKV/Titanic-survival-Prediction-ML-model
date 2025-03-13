@@ -28,7 +28,7 @@ This project is a machine learning model that predicts whether a passenger would
 - **static/->** Stores frontend assets like styles.css and images
 - **templates/->**  Contains index.html for the webpage UI
 - **app.py->** Flask backend that handles predictions 
-- **sonar_data.csv->** Dataset used for training
+- **Titanic_data.csv->** Dataset used for training
 - **requirements.txt->** Lists required dependencies
 
 ---
